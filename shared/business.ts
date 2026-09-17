@@ -1,6 +1,7 @@
 export const SHOP = {
   name: "Harsh Computers Laptop And Mobile Hub",
   localName: "हर्ष कंप्यूटर्स लैपटॉप एंड मोबाइल हब",
+  logoPath: "/manus-storage/harsh-computers-logo-v2_c93cef98.jpg",
   category: "Computer repair service",
   rating: 4.9,
   reviewCount: 25,
